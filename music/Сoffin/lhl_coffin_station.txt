@@ -1,0 +1,9 @@
+music_station = "coffin"
+
+# music = {
+	# song = "all_according_to_plan"
+# }
+
+# music = {
+	# song = "russian_field_of_experiments"
+# }

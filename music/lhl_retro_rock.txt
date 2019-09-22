@@ -1,0 +1,25 @@
+music_station = "retro_rock"
+
+music = {
+	song = "all_according_to_plan"
+}
+
+music = {
+	song = "russian_field_of_experiments"
+}
+
+music = {
+	song = "russia"
+}
+
+music = {
+	song = "former_cossack_elite"
+}
+
+music = {
+	song = "changes"
+}
+
+music = {
+	song = "star_called_sun"
+}
