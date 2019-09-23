@@ -1,3 +1,12 @@
 spriteTypes = {
-
+	spriteType = {
+		name = "GFX_retro_rock_album_art"
+		textureFile = "gfx/retro_rock.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_russian_death_album_art"
+		textureFile = "gfx/russian_death.tga"
+		noOfFrames = 2
+	}
 }
