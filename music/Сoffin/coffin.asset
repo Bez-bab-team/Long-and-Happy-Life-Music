@@ -1,19 +1,5 @@
-
-# MAIN THEME
-# music = {
-	# name = "maintheme"
-	# file = "hoi4mainthemeallies.ogg"
-	# volume = 0.65
-# }
-
 music = {
-	name = "all_according_to_plan"
-	file = "all_according_to_plan.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "russian_field_of_experiments"
-	file = "russian_field_of_experiments.ogg"
+	name = "useless_pie"
+	file = "useless_pie.ogg"
 	volume = 0.65
 }

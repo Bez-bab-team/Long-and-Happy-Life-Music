@@ -1,33 +1,6 @@
-
 # MAIN THEME
-# music = {
-	# name = "maintheme"
-	# file = "hoi4mainthemeallies.ogg"
-	# volume = 0.65
-# }
-
-# Тальков
 music = {
-	name = "russia"
-	file = "russia.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "former_cossack_elite"
-	file = "former_cossack_elite.ogg"
-	volume = 0.65
-}
-
-# Цой
-music = {
-	name = "changes"
-	file = "changes.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "star_called_sun"
-	file = "star_called_sun.ogg"
+	name = "maintheme"
+	file = "long_and_happy_life.ogg"
 	volume = 0.65
 }

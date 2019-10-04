@@ -9,4 +9,9 @@ spriteTypes = {
 		textureFile = "gfx/russian_death.tga"
 		noOfFrames = 2
 	}
+	spriteType = {
+		name = "GFX_coffin_album_art"
+		textureFile = "gfx/coffin.tga"
+		noOfFrames = 2
+	}
 }
