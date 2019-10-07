@@ -1,0 +1,79 @@
+### MAIN THEME
+music = {
+	name = "maintheme"
+	file = "00_long_and_happy_life.ogg"
+	volume = 0.65
+}
+
+### Other
+
+music = {
+	name = "useless_pie"
+	file = "useless_pie.ogg"
+	volume = 0.65
+}
+music = {
+	name = "outside_of_all_dimensions"
+	file = "outside_of_all_dimensions.ogg"
+	volume = 0.65
+}
+music = {
+	name = "mimicry"
+	file = "mimicry.ogg"
+	volume = 0.65
+}
+music = {
+	name = "hello_black_monday"
+	file = "hello_black_monday.ogg"
+	volume = 0.65
+}
+music = {
+	name = "about_a_fool"
+	file = "about_a_fool.ogg"
+	volume = 0.65
+}
+music = {
+	name = "dead_ones"
+	file = "dead_ones.ogg"
+	volume = 0.65
+}
+music = {
+	name = "everything_is_with_you"
+	file = "everything_is_with_you.ogg"
+	volume = 0.65
+}
+music = {
+	name = "from_outside"
+	file = "from_outside.ogg"
+	volume = 0.65
+}
+music = {
+	name = "incomprehensible_song"
+	file = "incomprehensible_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "new_day"
+	file = "new_day.ogg"
+	volume = 0.65
+}
+music = {
+	name = "nothing_more_to_lose"
+	file = "nothing_more_to_lose.ogg"
+	volume = 0.65
+}
+music = {
+	name = "resuscitation"
+	file = "resuscitation.ogg"
+	volume = 0.65
+}
+music = {
+	name = "too_late"
+	file = "too_late.ogg"
+	volume = 0.65
+}
+music = {
+	name = "tops_and_bottoms"
+	file = "tops_and_bottoms.ogg"
+	volume = 0.65
+}
