@@ -1,0 +1,17 @@
+music_station = "coffin"
+
+music = { song = "maintheme" } # Long and Happy Life
+music = { song = "useless_pie" }
+music = { song = "outside_of_all_dimensions" }
+music = { song = "mimicry" }
+music = { song = "hello_black_monday" }
+music = { song = "about_a_fool" }
+music = { song = "dead_ones" }
+music = { song = "everything_is_with_you" }
+music = { song = "from_outside" }
+music = { song = "incomprehensible_song" }
+music = { song = "new_day" }
+music = { song = "nothing_more_to_lose" }
+music = { song = "resuscitation" }
+music = { song = "too_late" }
+music = { song = "tops_and_bottoms" }

@@ -1,6 +1,4 @@
 music_station = "retro_rock"
 
 ### Maintheme
-music = {
-	song = "maintheme" # Long and Happy Life
-}
+music = { song = "maintheme" # Long and Happy Life }

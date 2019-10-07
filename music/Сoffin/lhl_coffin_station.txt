@@ -1,5 +1,0 @@
-music_station = "coffin"
-
-music = {
-	song = "useless_pie"
-}
