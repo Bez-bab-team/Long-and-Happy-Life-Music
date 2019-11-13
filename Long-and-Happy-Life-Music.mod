@@ -1,7 +1,9 @@
-﻿name="Long and Happy Life Music"
+name="Long and Happy Life Music"
 path="mod/Long-and-Happy-Life-Music"
-user_dir = "Long-and-Happy-Life"
+
 replace_path = "music"
+replace_path = "music/hoi2"
+replace_path = "music/hoi3"
 
 tags={
 	"Music"
