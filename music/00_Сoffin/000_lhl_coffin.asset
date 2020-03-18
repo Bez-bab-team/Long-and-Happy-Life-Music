@@ -1,5 +1,6 @@
 ### MAIN THEME
-music = {
+
+music = { # Long and Happy Life - Долгая счастливая жизнь
 	name = "maintheme"
 	file = "00_long_and_happy_life.ogg"
 	volume = 0.65
@@ -7,73 +8,138 @@ music = {
 
 ### Other
 
-music = {
+music = { # Useless Pie; Беспонтовый Пирожок
 	name = "useless_pie"
 	file = "useless_pie.ogg"
 	volume = 0.65
 }
-music = {
+music = { # Outside of All Dimensions; Снаружи всех измерений
 	name = "outside_of_all_dimensions"
 	file = "outside_of_all_dimensions.ogg"
 	volume = 0.65
 }
-music = {
+music = { # Mimicry; Мимикрия
 	name = "mimicry"
 	file = "mimicry.ogg"
 	volume = 0.65
 }
-music = {
+music = { # Hello, Black Monday; Здравствуй, чёрный понедельник
 	name = "hello_black_monday"
 	file = "hello_black_monday.ogg"
 	volume = 0.65
 }
-music = {
+music = { # About a Fool; Про дурачка
 	name = "about_a_fool"
 	file = "about_a_fool.ogg"
 	volume = 0.65
 }
-music = {
+music = { # Dead Ones; Мёpтвые
 	name = "dead_ones"
 	file = "dead_ones.ogg"
 	volume = 0.65
 }
-music = {
+music = { # Everything is with You; Всё это с тобой
 	name = "everything_is_with_you"
 	file = "everything_is_with_you.ogg"
 	volume = 0.65
 }
-music = {
+music = { # From Outside; Извне
 	name = "from_outside"
 	file = "from_outside.ogg"
 	volume = 0.65
 }
-music = {
+music = { # Incomprehensible Song; Непонятная песенка
 	name = "incomprehensible_song"
 	file = "incomprehensible_song.ogg"
 	volume = 0.65
 }
-music = {
+music = { # Новый день
 	name = "new_day"
 	file = "new_day.ogg"
 	volume = 0.65
 }
-music = {
+music = { # Нечего терять
 	name = "nothing_more_to_lose"
 	file = "nothing_more_to_lose.ogg"
 	volume = 0.65
 }
-music = {
+music = { # Реанимация
 	name = "resuscitation"
 	file = "resuscitation.ogg"
 	volume = 0.65
 }
-music = {
+music = { # Поздно
 	name = "too_late"
 	file = "too_late.ogg"
 	volume = 0.65
 }
-music = {
+music = { # Вершки и корешки
 	name = "tops_and_bottoms"
 	file = "tops_and_bottoms.ogg"
 	volume = 0.65
 }
+
+# State; Государство
+# The Fall; Осень
+# Optimism; Оптимизм
+# Rifle is a Holiday; Винтовка - это праздник
+# That Means a Hurricane; Значит, Ураган
+# New Patriotic; Новая патриотическая
+# The Unbearable Lightness of Being; Невыносимая лёгкость бытия
+# Everything Is Going According to the Plan; Всё идет по плану
+# We walk in silence; Мы идём в тишине
+# Take Your Coat; Бери шинель
+# We're the Ice; Мы — лёд
+# Russian Field of Experiments; Русское поле экспериментов
+# Lovely; Любо
+# The Shining; Сияние
+# Glory to the Psychonauts; Слава Психонавтам
+# Kill; Убивать
+# Zoo; Зоопарк
+# Without Me; Без меня
+# Live; Жить
+# Dance for the Dead; Танец для мёртвых
+# Incredible View from the Window; Потрясающий вид из окна
+# Lobotomy; Лоботомия
+# Motherland; Родина
+# Getting Stronger; Крепчаем
+# My Defence; Моя оборона
+# Scythe of Сivilizations; Коса цивилизаций
+# After us; После нас
+# Joyfully at Heart; Радостно на душе
+# "Memory" Society; Общество 'Память'
+
+state
+autumn
+optimism
+rifle_is_a_holiday
+that_means_a_hurricane
+new_patriotic
+unbearable_lightness_of_being
+everything_is_going_according_to_the_plan
+we_walk_in_silence
+take_your_coat
+we_are_ice
+russian_field_of_experiments
+lovely
+shining
+glory_to_psychonauts
+kill
+zoo
+without_me
+live
+dance_for_dead
+wonderful_view_from_window
+lobotomy
+motherland
+getting_stronger
+my_defence
+scythe_of_civilizations
+after_us
+joyful_at_heart
+memory_society
+
+# Mousetrap - Мышеловка
+# 
+
+mousetrap

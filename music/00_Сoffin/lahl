@@ -1,0 +1,21 @@
+<NotepadPlus>
+    <Session activeView="1">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="746" startPos="946" endPos="946" selMode="0" lang="CK2 KofA v1.0" encoding="-1" userReadOnly="no" filename="C:\Users\Alexius\Documents\Paradox Interactive\Hearts of Iron IV\mod\Long-and-Happy-Life-Music\music\lhl_coffin_station.txt" backupFilePath="" originalFileLastModifTimestamp="1288215105" originalFileLastModifTimestampHigh="30778283" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="-332909248" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="451" startPos="1450" endPos="1450" selMode="0" lang="CK2 KofA v1.0" encoding="-1" userReadOnly="no" filename="C:\Users\Alexius\Documents\Paradox Interactive\Hearts of Iron IV\mod\Long-and-Happy-Life-Music\music\00_&#x0421;offin\000_lhl_coffin.asset" backupFilePath="" originalFileLastModifTimestamp="1294412086" originalFileLastModifTimestampHigh="30778283" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no">
+                <Fold line="2" />
+                <Fold line="10" />
+                <Fold line="15" />
+                <Fold line="20" />
+                <Fold line="25" />
+                <Fold line="30" />
+                <Fold line="35" />
+                <Fold line="40" />
+                <Fold line="45" />
+                <Fold line="50" />
+            </File>
+        </subView>
+    </Session>
+</NotepadPlus>

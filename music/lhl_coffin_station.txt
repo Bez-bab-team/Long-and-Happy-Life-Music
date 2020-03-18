@@ -1,15 +1,15 @@
 music_station = "coffin"
 
-music = { song = "maintheme" } # Long and Happy Life
-music = { song = "useless_pie" }
-music = { song = "outside_of_all_dimensions" }
-music = { song = "mimicry" }
-music = { song = "hello_black_monday" }
-music = { song = "about_a_fool" }
-music = { song = "dead_ones" }
-music = { song = "everything_is_with_you" }
-music = { song = "from_outside" }
-music = { song = "incomprehensible_song" }
+music = { song = "maintheme" } # Long and Happy Life - Долгая счастливая жизнь
+music = { song = "useless_pie" } # Useless Pie - Беспонтовый Пирожок
+music = { song = "outside_of_all_dimensions" } # Outside of All Dimensions - Снаружи всех измерений
+music = { song = "mimicry" } # Mimicry - Мимикрия
+music = { song = "hello_black_monday" } # Hello, Black Monday - Здравствуй, чёрный понедельник
+music = { song = "about_a_fool" } # About a Fool; Про дурачка
+music = { song = "dead_ones" } # Dead Ones; Мёpтвые
+music = { song = "everything_is_with_you" } # Everything is with You; Всё это с тобой
+music = { song = "from_outside" } # From Outside; Извне
+music = { song = "incomprehensible_song" } # Incomprehensible Song; Непонятная песенка
 music = { song = "new_day" }
 music = { song = "nothing_more_to_lose" }
 music = { song = "resuscitation" }
